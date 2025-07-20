@@ -2,7 +2,7 @@
 
 A minimalist and responsive TODO List application built with **ReactJS** and **Tailwind CSS**. Easily add and manage your daily tasks with a clean user interface.
 
-![App Screenshot](./Screenshot%202025-07-20%20210324.png)
+![App Screenshot](./Output.png)
 
 ## ✨ Features
 
